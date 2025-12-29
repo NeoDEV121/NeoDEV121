@@ -4,6 +4,7 @@
 - 📫 How to reach me: Discord - _neoplay
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Japan
+- 💭 Join my discord server: http://discord.gg/7sEaHvQv4R
 
 <!---
 NeoDEV121/NeoDEV121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
